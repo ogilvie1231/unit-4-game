@@ -1,0 +1,50 @@
+body {
+    margin: auto;
+    max-width: 75%;
+    background: url(../images/background.jpg)
+}
+
+h2 {
+    padding: 2%;  
+    border: 1px solid black;
+    background-color: rgb(209, 140, 55);
+}
+
+#instruct {
+    border: 1px solid black;
+    background-color: bisque;
+    padding: 2%;
+}
+
+#randomNumber {
+    max-width: 35%;
+    background-color: aquamarine;
+   padding: 1%;
+}
+
+#winLoss {
+    max-width: 35%;
+    background-color: aquamarine;
+    padding: 1%;
+    
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+   float: left;
+   margin: 0px 4px 4px 0px;
+}
+
+#scoreIs {
+    max-width: 35%;
+    padding: 1%;
+    background-color: aqua;
+    clear: both;
+}
+
+#score {
+    max-width: 35%;
+    padding: 1%;
+    background-color: aqua;
+}
