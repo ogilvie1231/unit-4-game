@@ -1,34 +1,36 @@
 body {
     margin: auto;
     max-width: 75%;
-    background: url(../images/background.jpg)
+    background: url(../images/paper-back.png)
 }
 
 h2 {
     padding: 2%;  
-    border: 1px solid black;
-    background-color: rgb(209, 140, 55);
+    /* border: 1px solid black; */
+    /* background-color: rgb(209, 140, 55); */
+    /* color: white; */
     width: 100%;
     text-align: center;
 }
 
 #instruct {
-    border: 1px solid black;
-    background-color: bisque;
     padding: 2%;
-    width: 100%;
+    /* width: 100%; */
 }
 
-
+.mainBody {
+    background-color: rgb(230, 230, 230);
+    /* opacity: .8; */
+}
 
 #winLoss {
 
     width: 100%;
-    background-color: aquamarine;
+    
     padding: 2%;
     float: left;
     margin-top: 1.5%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     
     
 }
@@ -41,17 +43,21 @@ h2 {
     width: 100px;
     height: 100px;
    float: left;
-   margin: 1% 6% 1% 6%;
+   margin: 1% 6%;
+   
+   /* margin: auto; */
+   /* display: block; */
 };
 
-#image-container {
+/* #image-container {
     width: 100%;
     margin: auto;
-    font-size: 18px;
+    /* display: block; */
+    /* font-size: 18px;
     line-height: 27px;
-    font-weight: bolder;
+    font-weight: bolder; */
     
-}
+} */
 
 #randomNumber{
     border-bottom: 1px solid black;
