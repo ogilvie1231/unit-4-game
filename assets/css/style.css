@@ -42,22 +42,8 @@ h2 {
 .image {
     width: 100px;
     height: 100px;
-   float: left;
-   margin: 1% 6%;
-   
-   /* margin: auto; */
-   /* display: block; */
 };
 
-/* #image-container {
-    width: 100%;
-    margin: auto;
-    /* display: block; */
-    /* font-size: 18px;
-    line-height: 27px;
-    font-weight: bolder; */
-    
-} */
 
 #randomNumber{
     border-bottom: 1px solid black;
